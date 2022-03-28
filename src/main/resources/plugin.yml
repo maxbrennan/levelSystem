@@ -1,0 +1,7 @@
+name: Level-System
+version: '${project.version}'
+main: com.max.levelsystem.LevelSystem
+api-version: 1.18
+commands:
+  level:
+    description: Enables/disables the plugin
